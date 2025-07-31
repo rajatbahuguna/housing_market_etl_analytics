@@ -32,4 +32,3 @@
 - Design and deployment of interactive Power BI dashboards.
 - Combining economic data with housing market trends for actionable insights.
 
-## Repository Structure (suggested)
